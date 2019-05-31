@@ -1,4 +1,4 @@
-How to run the code:
+# How to run the code (User Guide):
 - First, user needs to have Jupyter Notebook or Jupyter Lab to run the program.
 - Download the required packages needed to run the code according to this list:
 	1. nltk
@@ -15,7 +15,7 @@ user is required to rerun train_model.ipynb again.
 user interface. 
 - User is able to input any review texts to get the rating. 
 
-How to run the test:
+# How to run the test:
 The test files are in test_train_model.ipynb and UI_test.ipynb.
 Open the file and run the cell.
 
